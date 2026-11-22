@@ -15,6 +15,10 @@ public class DemoInput {
     }
 }
 
-// scanner.nextInt() (পূর্ণসংখ্যা বা Integer-এর জন্য)
-// scanner.nextDouble() (দশমিক সংখ্যা বা Double-এর জন্য)
-// scanner.nextLong() (বড় পূর্ণসংখ্যার জন্য)
+// scanner.nextFloat() — float এর জন্য
+// scanner.nextDouble() — double এর জন্য
+// scanner.nextInt() — int এর জন্য
+// scanner.nextLong() — long এর জন্য
+// scanner.nextShort() — short এর জন্য
+// scanner.nextByte() — byte এর জন্য
+// scanner.nextBoolean() — boolean (true বা false) এর জন্য
