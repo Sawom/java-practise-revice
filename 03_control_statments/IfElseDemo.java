@@ -6,7 +6,7 @@ public class IfElseDemo {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter marks");
-        float marks = scanner.nextInt();
+        float marks = scanner.nextFloat();
 
         if(marks >=80 ){
             System.out.println("A+");

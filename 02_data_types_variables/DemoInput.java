@@ -22,3 +22,4 @@ public class DemoInput {
 // scanner.nextShort() — short এর জন্য
 // scanner.nextByte() — byte এর জন্য
 // scanner.nextBoolean() — boolean (true বা false) এর জন্য
+// scanner.nextLine(); // for string input
