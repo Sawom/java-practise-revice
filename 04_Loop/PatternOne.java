@@ -1,3 +1,12 @@
+/* print the following pattern for n=5
+
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+
+*/
 public class PatternOne {
     public static void main(String[] args){
         int row,col;
